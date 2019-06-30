@@ -1,0 +1,14 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "birthday.arreferenceimage"
+    },
+    {
+      "filename" : "giftcard.arreferenceimage"
+    }
+  ]
+}
